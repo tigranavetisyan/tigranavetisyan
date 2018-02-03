@@ -1,0 +1,35 @@
+body {
+	background: brown;
+}
+h1 {
+	text-align: center;
+}
+.img {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+.dv_2 {
+	background-color: green;
+	width: 21%;
+}
+.dv_1 {
+	background-color: yellow;
+	width: 21%;
+}
+#id_1 {
+	color: white;
+}
+
+#id_2 {
+	color: red;
+}
+
+#p_1 {
+	font-size: 18px;
+	font-family: ARIAL;
+}
+#id_3 {
+font-family: cursive
+}
